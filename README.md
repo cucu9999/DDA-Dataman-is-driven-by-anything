@@ -1,3 +1,5 @@
+
+```shell
 .
 ├── play_control.py
 ├── arkitsend_v2_2.py               # 测试文件
@@ -13,3 +15,4 @@
 └── voice                           # 保存的语音
     ├── alert.wav
     └── static_valley_of_fear.wav
+```
