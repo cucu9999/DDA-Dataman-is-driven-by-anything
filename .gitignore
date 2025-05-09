@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
+=======
+
+
+
+
+
+material/voice/
+material/csv/
+>>>>>>> ed913bd (250509)
